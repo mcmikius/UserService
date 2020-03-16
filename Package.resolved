@@ -101,6 +101,15 @@
         }
       },
       {
+        "package": "SendGrid",
+        "repositoryURL": "https://github.com/skelpo/sendgrid-provider.git",
+        "state": {
+          "branch": null,
+          "revision": "73dd9edbbbd187707c5b375fb622468cc5056624",
+          "version": "4.0.3"
+        }
+      },
+      {
         "package": "SimpleJWTMiddleware",
         "repositoryURL": "https://github.com/proggeramlug/SimpleJWTMiddleware.git",
         "state": {
