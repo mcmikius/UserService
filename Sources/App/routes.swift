@@ -12,6 +12,6 @@ func routes(_ app: Application, _ sendgridClient: SendGridClient) throws {
     }
     
 //    try root.register(collection: AddressController())
-//    try root.register(collection: AuthController(sendgridClient))
+    try root.register(collection: AuthController(sendgridClient))
 //    try auth.register(collection: UserController())
 }
